@@ -12,5 +12,7 @@ public class Hola {
 
     public static void main(String[] args) {
         String simplificado_dev = "dev-simple";
+        String simplificado_dev2 = "dev-simple";
+        
     }
 }
