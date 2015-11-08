@@ -11,6 +11,6 @@ package test;
 public class Hola {
 
     public static void main(String[] args) {
-        String hola = "";
+        String simplificado_dev = "dev-simple";
     }
 }
