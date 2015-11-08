@@ -11,9 +11,8 @@ package test;
 public class Hola {
 
     public static void main(String[] args) {
-        String hola = "";
-        String desarrollo = "dev";
-        String desarrollo2 = "dev2";
+        String simplificado_dev = "dev-simple";
+        String simplificado_dev2 = "dev-simple";
         
     }
 }
